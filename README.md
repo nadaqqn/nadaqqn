@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qonita Qotrunnada</h1>
-<h3 align="center">A passionate IoT engineer, mobile developer, frontend developer from Indnesia</h3>
+<h3 align="center">A passionate IoT engineer, mobile developer, software engineer, data analyst from Indonesia</h3>
 
 - 🔭 I’m currently working on **IoT Health Monitoring System**
 
