@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Qonita Qotrunnada</h1>
-<h3 align="center">A passionate IoT engineer, mobile developer, software engineer, data analyst from Indonesia</h3>
+<h3 align="center">A passionate Python web developer and software engineering from Indonesia</h3>
 
-- 🔭 I’m currently working on **IoT Health Monitoring System**
-
-- 🌱 I’m currently learning **Github, PHP**
+- 🌱 I’m currently learning **Github, RESTFUL APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nadaqqn](https://github.com/nadaqqn)
 
-- 💬 Ask me about **IoT, System Security**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript Frameworks**
 
 - 📫 How to reach me **linkedin.com/in/qonitaq**
 
