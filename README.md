@@ -1,15 +1,28 @@
 <h1 align="center">Hi 👋, I'm Qonita Qotrunnada</h1>
-<h3 align="center">A passionate Python web developer and software engineering from Indonesia</h3>
 
-- 🌱 I’m currently learning **Github, RESTFUL APIs**
+<h3 align="center">
+Software Engineer | Fullstack Web & Mobile Developer | Aspiring AI Engineer
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nadaqqn](https://github.com/nadaqqn)
+<p align="center">
+CEP-CCIT FTUI Best Graduate 🏆 <br>
+Currently pursuing a Computer Science degree at Trilogi University
+</p>
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript Frameworks**
+---
 
-- 📫 How to reach me **linkedin.com/in/qonitaq**
+### 🚀 About Me
+- 💻 Passionate about software engineering, web development, mobile apps, and intelligent systems
+- 🌱 Currently learning **REST APIs, Backend Development, and Software Engineering Best Practices**
+- 🛠️ Tech stack: **Python, Java, Kotlin, Flutter, PHP, MySQL, HTML, CSS, JavaScript**
+- 👨‍💻 Building real-world academic, freelance, and personal projects
+- 🎯 Interested in **AI Engineering, Fullstack Development, and Product Technology**
+- 🤝 Former Teaching Assistant at CEP-CCIT FTUI
 
-- ⚡ Fun fact **Woman in Tech**
+---
+
+### ⚡ Fun Fact
+I enjoy turning ideas into functional digital products and continuously exploring new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
