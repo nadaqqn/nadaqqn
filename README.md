@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qonita Qotrunnada</h1>
 
 <h3 align="center">
-Software Engineer | Fullstack Web & Mobile Developer | Aspiring AI Engineer
+Software Engineer | Fullstack Web & Mobile Developer | 
 </h3>
 
 <p align="center">
@@ -14,9 +14,9 @@ Currently pursuing a Computer Science degree at Trilogi University
 ### 🚀 About Me
 - 💻 Passionate about software engineering, web development, mobile apps, and intelligent systems
 - 🌱 Currently learning **REST APIs, Backend Development, and Software Engineering Best Practices**
-- 🛠️ Tech stack: **Python, Java, Kotlin, Flutter, PHP, MySQL, HTML, CSS, JavaScript**
+- 🛠️ Tech stack: **Java, Kotlin, Flutter, PHP, MySQL, HTML, CSS, JavaScript**
 - 👨‍💻 Building real-world academic, freelance, and personal projects
-- 🎯 Interested in **AI Engineering, Fullstack Development, and Product Technology**
+- 🎯 Interested in **Software Development**
 - 🤝 Former Teaching Assistant at CEP-CCIT FTUI
 
 ---
